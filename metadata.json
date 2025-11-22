@@ -1,0 +1,5 @@
+{
+  "name": "macOS Portfolio",
+  "description": "A personal portfolio inspired by macOS Big Sur/Sonoma interface with interactive windows and dock.",
+  "requestFramePermissions": []
+}
